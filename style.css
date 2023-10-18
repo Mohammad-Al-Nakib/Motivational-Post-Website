@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%; 
+}
+
+img:hover{
+    background: white;
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px blue,
+    0 0 200px blue;
+}
+
+div{
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
